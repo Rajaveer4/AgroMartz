@@ -1,11 +1,5 @@
 # 🌾 AgroMartz – Scalable Agricultural Marketplace Platform
 
-![Stars](https://img.shields.io/github/stars/your-username/agromartz?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/your-username/agromartz?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/your-username/agromartz?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/your-username/agromartz?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/agromartz?style=for-the-badge)
-
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-Microservices-purple?style=for-the-badge)
